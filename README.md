@@ -1,1 +1,1 @@
-# easy_go
+# easy-go
